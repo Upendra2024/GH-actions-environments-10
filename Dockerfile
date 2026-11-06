@@ -1,3 +1,4 @@
+ # Use the official Python 3.13 slim image as the base_image
 FROM python:3.13-slim
 
 WORKDIR /app
